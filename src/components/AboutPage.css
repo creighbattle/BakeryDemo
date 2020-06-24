@@ -1,0 +1,28 @@
+.about {
+    padding: 60px 0;
+}
+
+.section-heading h4 {
+    text-transform: uppercase;
+    color: #101D2C;
+    line-height: 0;
+    font-family: 'Teko', sans-serif;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
+.section-heading h1 {
+    font-family: 'Niconne', cursive;
+    color: #c69963;
+}
+
+.about .btn {
+    width: 150px;
+    color: #c69963 !important;
+    transition: ease-in 650ms;
+}
+
+.about .btn:hover {
+    color: #fff!important;
+    background-color: #c69963;
+}
