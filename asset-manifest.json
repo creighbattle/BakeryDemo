@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/BakeryDemo/static/css/main.66cf4aa7.chunk.css",
+    "main.js": "/BakeryDemo/static/js/main.8a186878.chunk.js",
+    "main.js.map": "/BakeryDemo/static/js/main.8a186878.chunk.js.map",
+    "runtime-main.js": "/BakeryDemo/static/js/runtime-main.2e560a16.js",
+    "runtime-main.js.map": "/BakeryDemo/static/js/runtime-main.2e560a16.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/BakeryDemo/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.63d7ac67.chunk.js": "/BakeryDemo/static/js/2.63d7ac67.chunk.js",
+    "static/js/2.63d7ac67.chunk.js.map": "/BakeryDemo/static/js/2.63d7ac67.chunk.js.map",
+    "index.html": "/BakeryDemo/index.html",
+    "precache-manifest.c186f4b90d2e99ef7c1f6d7af3ef83ca.js": "/BakeryDemo/precache-manifest.c186f4b90d2e99ef7c1f6d7af3ef83ca.js",
+    "service-worker.js": "/BakeryDemo/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/BakeryDemo/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.66cf4aa7.chunk.css.map": "/BakeryDemo/static/css/main.66cf4aa7.chunk.css.map",
+    "static/js/2.63d7ac67.chunk.js.LICENSE.txt": "/BakeryDemo/static/js/2.63d7ac67.chunk.js.LICENSE.txt",
+    "static/media/about-img.jpg": "/BakeryDemo/static/media/about-img.baa1a10f.jpg",
+    "static/media/chef-1.png": "/BakeryDemo/static/media/chef-1.e75c964e.png",
+    "static/media/chef-2.png": "/BakeryDemo/static/media/chef-2.b1103f44.png",
+    "static/media/chef-3.png": "/BakeryDemo/static/media/chef-3.f72b44bb.png",
+    "static/media/Navbar.css": "/BakeryDemo/static/media/header-bg.ed9fd5a5.jpg",
+    "static/media/logo1.png": "/BakeryDemo/static/media/logo1.40aa99d6.png",
+    "static/media/menu-item-1.jpg": "/BakeryDemo/static/media/menu-item-1.a613d1c4.jpg",
+    "static/media/menu-item-2.jpg": "/BakeryDemo/static/media/menu-item-2.389c0e09.jpg",
+    "static/media/menu-item-3.jpg": "/BakeryDemo/static/media/menu-item-3.b2f5b072.jpg",
+    "static/media/menu-item-4.jpg": "/BakeryDemo/static/media/menu-item-4.1d499f59.jpg",
+    "static/media/menu-item-5.jpg": "/BakeryDemo/static/media/menu-item-5.26cec5bc.jpg",
+    "static/media/menu-item-6.jpg": "/BakeryDemo/static/media/menu-item-6.2e1004a4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e560a16.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.63d7ac67.chunk.js",
+    "static/css/main.66cf4aa7.chunk.css",
+    "static/js/main.8a186878.chunk.js"
+  ]
+}
